@@ -1,5 +1,5 @@
-# wxjssdk
-微信jssdk配置，包含官方demo
+# sharejssdk
+QQ+微信jssdk配置，包含官方demo，导入QQsdk会包含微信sdk，已屏蔽微信相关配置。弱只在微信分享，可更换
 ## 配置文件是vue写的，可根据需求进行修改。下面总结下常用坑：
 ### 调用config 接口的时候传入参数 debug: true 可以开启debug模式，页面会alert出错误信息。以下为常见错误及解决方法：
 
